@@ -17,7 +17,7 @@ Getting started:
 Project5 - Shading
 
 The above project also support Gouraud shading using a Blinn material model
-To see the full effects on a high-poly model, you can use version without the simulation.
+To see the full shading effects on a high-poly model, use this version without the simulation.
 
 Getting started:
 - Open project5.html to start the program.
