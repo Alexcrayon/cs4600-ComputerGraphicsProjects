@@ -1,8 +1,8 @@
 # cs4600-ComputerGraphicsProjects
-This repo is for computer graphics related projects from CS4600, Fall 2023, University of Utah
+This repo is for computer graphics related projects from CS4600, Fall 2023, University of Utah.
 Implemented using JavaScript and WebGL. 
 -------------------------------------------------------
-Simulation
+Project7 - Simulation
 
 The project includes a webpage that runs a physical-based simulation using the mass-spring system
 The simluation occurs within the block frame, applying a gravity to the mesh when it started. Collisions will be handled when mesh hitting the boundaries, drag any vertex on the mesh to apply a force to see the mass-spring effect.
@@ -14,7 +14,7 @@ Getting started:
 - Adjust parameters(time step, gravity, stiffness, etc.) to achieve different result.
 
 -------------------------------------------------------
-Shading
+Project5 - Shading
 
 The above project also support Gouraud shading using a Blinn material model
 To see the full effects on a high-poly model, you can use version without the simulation.
