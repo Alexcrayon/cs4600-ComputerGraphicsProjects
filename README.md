@@ -4,7 +4,7 @@ Implemented using JavaScript and WebGL.
 -------------------------------------------------------
 Project7 - Simulation
 
-The project includes a webpage that runs a physical-based simulation using the mass-spring system
+The project includes a webpage that runs a physical-based simulation using the mass-spring system.
 The simluation occurs within the block frame, applying a gravity to the mesh when it started. Collisions will be handled when mesh hitting the boundaries, drag any vertex on the mesh to apply a force to see the mass-spring effect.
 
 Getting started:
@@ -16,7 +16,7 @@ Getting started:
 -------------------------------------------------------
 Project5 - Shading
 
-The above project also support Gouraud shading using a Blinn material model
+The above project also support Gouraud shading using a Blinn material model.
 To see the full shading effects on a high-poly model, use this version without the simulation.
 
 Getting started:
