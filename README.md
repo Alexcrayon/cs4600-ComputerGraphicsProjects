@@ -20,8 +20,9 @@ The above project also support Gouraud shading using a Blinn material model
 To see the full effects on a high-poly model, you can use version without the simulation.
 
 Getting started:
-- Open project5.html to start the program
-- Upload a model through OBJ model panel on the bottem right
-- Upload a texture through Texture image panel
+- Open project5.html to start the program.
+- Upload a model through OBJ model panel on the bottem right.
+- Upload a texture through Texture image panel.
 - Adjust Light Direction by draging the light source arrow in the top right panel.
 - Adjust shininess to see different exponents' effect on the specular refection.
+- A high-poly tea model and bricks texture are provided.
